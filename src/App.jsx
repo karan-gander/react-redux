@@ -11,7 +11,7 @@ function App() {
   return (
     <>
   <div>
-    <h1>Learn about redux toolkit</h1>
+    
     <AddTodo/>
     <Todos/>
   </div>
